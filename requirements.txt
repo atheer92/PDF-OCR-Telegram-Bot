@@ -1,0 +1,9 @@
+python-telegram-bot==20.3
+pytesseract==0.3.10
+PyPDF2==3.0.1
+pdf2image==1.16.3
+
+
+Depending on your operating system and environment, you will also need:
+-Tesseract
+-Poppler
