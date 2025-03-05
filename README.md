@@ -15,7 +15,7 @@ Requirements
 Installation & Setup
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/pdf-ocr-telegram-bot.git
+   git clone https://github.com/atheer92/pdf-ocr-telegram-bot.git
    cd pdf-ocr-telegram-bot
    ```
 
